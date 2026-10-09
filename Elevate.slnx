@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Elevate/Elevate.vcxproj" Id="f58b6fa2-d46b-4331-b2b7-c68a003bdcd1" />
+</Solution>
